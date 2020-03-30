@@ -11,7 +11,9 @@ Each program in the folder /Siemens_Suite have the original, and the instrumente
 The instrumented version print logs about control- and data-flow elements executed.
 From the logs is possible to obtain nodes and def-use associations covered in the execution of test cases. 
 
-
+### Help
+If you have any questions, please feel free to contact us.
+corresponding author at: deuslirio.junior@gmail.com
 
 ### Citation
 ```
